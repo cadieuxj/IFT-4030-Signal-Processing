@@ -9,3 +9,5 @@ Le fichier SansFourier est l'entrainement EEGNetV4 des datas sans passer par STF
 
 EEGNetV4 3-classes ne donne pas de bon résultats, probleme d'implementation
 
+GMM_CNN_RNN_DTW contient les implémentations des modèles GMM, CNN, RNN ainsi que DTW
+
